@@ -1,7 +1,7 @@
 # Lauras_Portfolio
 My academic projects in C
 
-# [Project 1: Mario: Project Overview](https://github.com/code50/98297122/blob/68bcdea80e02ca0ed9bf4b15f7dce6fdb2328af5/mario-less)
+# [Project 1: Mario: Project Overview](https://github.com/code50/98297122/blob/68bcdea80e02ca0ed9bf4b15f7dce6fdb2328af5/mario-less/mario.c)
 Created a tool that based of user input printed out a pyramid using hashes (#) for bricks. Each hash is a bit taller than it is wide, so the pyramid itself is also be taller than it is wide. 
 
 # [Project 2: Cash: Project Overview]
