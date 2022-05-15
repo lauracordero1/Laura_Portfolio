@@ -7,10 +7,13 @@ Created a tool that based of user input printed out a pyramid using hashes (#) f
 # [Project 2: Cash: Project Overview](https://github.com/code50/98297122/blob/071c712947fc2e90930d601908e232c6591c0796/cash/cash.c)
 
 # [Project 3: Redability: Project Overview](https://github.com/code50/98297122/blob/c244fa51dbc85016e3feb1248d5e6d8f605a9e14/readability/readability.c#L29)
+Wrote a program that determines the reading level of the inputed text based of the Coleman-Liau index. The Coleman-Liau index of a text is designed to output that (U.S.) grade level that is needed to understand some text.  
 
 # [Project 4: Ceasar: Project Overview](https://github.com/code50/98297122/blob/7606698ae79a97575f42dafe129aacac3dee645f/caesar/caesar.c)
+Wrote a program that enables the user to encrypt messages using Caesar’s cipher. At the time the user executes the program, they should decide, by providing a command-line argument, what the key should be in the secret message they’ll provide at runtime. We shouldn’t necessarily assume that the user’s key is going to be a number; though it may be assumed that, if it is a number, it will be a positive integer.
 
 # [Project 5: Scrabble: Project Overview](https://github.com/code50/98297122/blob/9e58667682ba2362049557b028d01af99ed0b8aa/scrabble/scrabble.c)
+Wrote a program that determines the winner of a short scrabble-like game, where two players each enter their word, and the higher scoring player wins.
 
 # [Project 6: Grocery Store: Project Overview](https://github.com/code50/98297122/blob/b84d8365cad02eda373bedac4bd6cc39beba684f/grocery_store/grocery_store.c#L17)
 Wrote a program that displays basic information such as the price, item location, and average customer review for a specific inventory item within a grocery store.
