@@ -1,4 +1,4 @@
-# Laura_Portfolio
+# Lauras_Portfolio
 My academic projects in C
 
 # Project 1: Mario: Project Overview
